@@ -14,5 +14,6 @@ I'm **Sergiy Kozmyn**, a passionate Fullstack Developer who loves building aweso
 
 💬 Let's Connect
 
+* LinkedIn: <a href="https://www.linkedin.com/in/sergiykozmyn/" target="_blank">Connect</a>
 * Telegram: <a href="https://t.me/sergiykozmyn" target="_blank">Sergiy Kozmyn</a>
 * GitHub: <a href="https://github.com/sergiykozmyn" target="_blank">Here!</a>
