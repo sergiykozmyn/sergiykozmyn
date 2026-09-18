@@ -1,5 +1,3 @@
-![Banner](assets/Banner.png)
-
 # ✨ Who am I?
 I'm **Sergiy Kozmyn**, a passionate Fullstack Developer who loves building awesome applications and experimenting with new technologies. I'm constantly learning, working on projects, and exploring different areas of software development. I also run a <a href="https://youtube.com/@sergiykozmyn" target="_blank">YouTube channel</a> where I share my journey, projects, and other content.
 
