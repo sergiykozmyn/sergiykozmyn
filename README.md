@@ -18,9 +18,3 @@ I'm **Sergiy Kozmyn**, a passionate Fullstack Developer who loves building aweso
 
 * Telegram: <a href="https://t.me/asmrprog_admin" target="_blank">AsmrProg</a>
 * GitHub: <a href="https://github.com/sergiykozmyn" target="_blank">Here!</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
-</picture>
